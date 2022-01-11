@@ -35,14 +35,16 @@ Users should be able to:
 
 ### Screenshots
 
-![]()
+![](https://github.com/dusvimarin/FEM-huddle-landing-page-with-single-introductory-section-master/blob/main/screenshots/desktop.png)
 
-![]()
+![](https://github.com/dusvimarin/FEM-huddle-landing-page-with-single-introductory-section-master/blob/main/screenshots/desktop%20active.png)
+
+![](https://github.com/dusvimarin/FEM-huddle-landing-page-with-single-introductory-section-master/blob/main/screenshots/mobile.png)
 
 
 ### Links
 
-[My Solution]()
+[My Solution](https://dusvimarin.github.io/FEM-huddle-landing-page-with-single-introductory-section-master)
 
 
 ## My process
