@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'icon2';
+  src:  url('fonts/icon2.eot?yl4oyu');
+  src:  url('fonts/icon2.eot?yl4oyu#iefix') format('embedded-opentype'),
+    url('fonts/icon2.ttf?yl4oyu') format('truetype'),
+    url('fonts/icon2.woff?yl4oyu') format('woff'),
+    url('fonts/icon2.svg?yl4oyu#icon2') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icon2' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-instagram:before {
+  content: "\e900";
+}
+.icon-gorjeo:before {
+  content: "\e901";
+}
+.icon-facebook:before {
+  content: "\e902";
+}
