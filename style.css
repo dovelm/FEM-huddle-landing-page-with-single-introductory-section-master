@@ -41,7 +41,7 @@ body{
     height: auto;
 }
 .header{
-    margin-bottom: 50px;
+    margin-bottom: 45px;
 }
 .section-one{
     width: 650px;
@@ -55,7 +55,7 @@ body{
     height: auto;
 }
 .title{
-    margin: 30px 45px;
+    margin: 25px 45px;
     font-size: 2.3rem;
     color:var(--neutral-white);
     font-weight: 600;
@@ -105,7 +105,7 @@ body{
 
 /*Footer*/
 .attribution {
-    margin-top: 20px;
+    margin-top: 5px;
     margin-bottom: 10px;
     font-size: 0.7rem; 
     text-align: center;
@@ -144,6 +144,9 @@ body{
 @media (max-width: 780px){
     .container{
         width: 600px;
+    }
+    .section-one, .section-two{
+        width: 300px;
     }
     .title, .text, .btn-primary{
         margin-left: 20px;
