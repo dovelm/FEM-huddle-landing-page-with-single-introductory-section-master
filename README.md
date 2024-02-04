@@ -35,16 +35,16 @@ Users should be able to:
 
 ### Screenshots
 
-![](https://github.com/dusvimarin/FEM-huddle-landing-page-with-single-introductory-section-master/blob/main/screenshots/desktop.png)
+![](https://github.com/dovelym/FEM-huddle-landing-page-with-single-introductory-section-master/blob/main/screenshots/desktop.png)
 
-![](https://github.com/dusvimarin/FEM-huddle-landing-page-with-single-introductory-section-master/blob/main/screenshots/desktop%20active.png)
+![](https://github.com/dovelym/FEM-huddle-landing-page-with-single-introductory-section-master/blob/main/screenshots/desktop%20active.png)
 
-![](https://github.com/dusvimarin/FEM-huddle-landing-page-with-single-introductory-section-master/blob/main/screenshots/mobile.png)
+![](https://github.com/dovelym/FEM-huddle-landing-page-with-single-introductory-section-master/blob/main/screenshots/mobile.png)
 
 
 ### Links
 
-[My Solution](https://dusvimarin.github.io/FEM-huddle-landing-page-with-single-introductory-section-master)
+[My Solution](https://dovelym.github.io/FEM-huddle-landing-page-with-single-introductory-section-master)
 
 
 ## My process
@@ -71,6 +71,6 @@ I learned to use elements flexbox and states.
 - Google chome/tools/development tools
 
 ## Author
-[@dusvimarin](https://github.com/dusvimarin)
+[@dusvy_m](https://github.com/dovelym)
 
 
