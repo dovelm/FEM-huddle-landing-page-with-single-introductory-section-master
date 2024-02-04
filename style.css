@@ -88,7 +88,7 @@ body{
     cursor: pointer;
 }
 .social{
-    margin-right: 10px;
+    margin-right: 8px;
     display: flex;
     justify-content:end;
 }
@@ -106,7 +106,7 @@ body{
 /*Footer*/
 .attribution {
     margin-top: 5px;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
     font-size: 0.7rem; 
     text-align: center;
     font-weight: 400;
