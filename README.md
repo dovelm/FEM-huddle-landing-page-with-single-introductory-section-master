@@ -71,6 +71,6 @@ I learned to use elements flexbox and states.
 - Google chome/tools/development tools
 
 ## Author
-[@dusvy_m](https://github.com/dovelym)
+[@dusvy_m](https://github.com/dovelm)
 
 
