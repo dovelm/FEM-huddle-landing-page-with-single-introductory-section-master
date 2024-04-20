@@ -35,16 +35,16 @@ Users should be able to:
 
 ### Screenshots
 
-![](https://github.com/dovelym/FEM-huddle-landing-page-with-single-introductory-section-master/blob/main/screenshots/desktop.png)
+![](https://github.com/dovelm/FEM-huddle-landing-page-with-single-introductory-section-master/blob/main/screenshots/desktop.png)
 
-![](https://github.com/dovelym/FEM-huddle-landing-page-with-single-introductory-section-master/blob/main/screenshots/desktop%20active.png)
+![](https://github.com/dovelm/FEM-huddle-landing-page-with-single-introductory-section-master/blob/main/screenshots/desktop%20active.png)
 
-![](https://github.com/dovelym/FEM-huddle-landing-page-with-single-introductory-section-master/blob/main/screenshots/mobile.png)
+![](https://github.com/dovelm/FEM-huddle-landing-page-with-single-introductory-section-master/blob/main/screenshots/mobile.png)
 
 
 ### Links
 
-[My Solution](https://dovelym.github.io/FEM-huddle-landing-page-with-single-introductory-section-master)
+[My Solution](https://dovelm.github.io/FEM-huddle-landing-page-with-single-introductory-section-master)
 
 
 ## My process
