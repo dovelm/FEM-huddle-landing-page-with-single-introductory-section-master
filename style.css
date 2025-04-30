@@ -106,13 +106,15 @@ body{
 /*Footer*/
 .attribution {
     margin-top: 5px;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
     font-size: 0.7rem; 
     text-align: center;
     font-weight: 400;
+    color:var(--neutral-white);
 }
 .attribution a { 
     color:var(--neutral-white);
+    font-weight: 500;
 }
 
 /*Media queries*/
